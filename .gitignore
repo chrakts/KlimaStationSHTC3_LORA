@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+-ffunction-sections
+
+*.map
